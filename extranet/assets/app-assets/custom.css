@@ -1,0 +1,17 @@
+.btn-trash {
+    border-radius: 0 8px 8px 0 !important;
+    background-color: rgb(36 36 36 / 22%) !important;
+    right: 0%;
+    position: absolute;
+}
+
+.btn-plus {
+    padding: 0.25rem 2rem !important;
+    border-radius: 8px 0 0 8px !important;
+    right: 30px;
+    position: absolute;
+}
+
+.card {
+    border-radius: 30px !important;
+}

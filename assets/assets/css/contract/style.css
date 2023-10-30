@@ -1,0 +1,58 @@
+/* add styling  */
+.btn-info {
+    border-radius: 8px;
+}
+
+.bg-select {
+    background-color: #2aace3;
+    color: white;
+}
+
+.border-remove {
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+
+.jenis-kontrak {
+    position: absolute;
+    top: 0%;
+    right: 4%;
+    background-color: #f7f7f8;
+    color: #000;
+    border: #e0e0e0;
+}
+
+.jenis-kontrak:hover {
+    background-color: #f7f7f8;
+    color: #000;
+}
+
+.jenis-kontrak:active {
+    background-color: #f7f7f8;
+    color: #000;
+}
+
+.form-group {
+    margin-bottom: 0;
+}
+
+.wrapper-switch {
+    background-color: #fff;
+    padding: 1rem;
+    display: flex;
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 285px;
+    box-shadow: -8px 8px 14px 0 rgb(25 42 70 / 11%);
+}
+
+.card-top {
+    background-color: #f7f7f8;
+    box-shadow: none;
+}
+
+.form-group {
+    margin-bottom: 3px !important;
+}

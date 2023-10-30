@@ -1,0 +1,238 @@
+CREATE SEQUENCE adm_category_project_id_seq;
+
+CREATE SEQUENCE adm_coa_new_id_seq;
+
+CREATE SEQUENCE uskep_online_id_seq
+
+CREATE SEQUENCE adm_dokumen_flow_id_seq1;
+
+CREATE SEQUENCE adm_tax_code_id_seq;
+
+CREATE SEQUENCE adm_hcis_id_seq;
+
+CREATE SEQUENCE adm_item_klarifikasi_id_seq;
+
+CREATE SEQUENCE adm_employee_proyek_id_seq;
+
+CREATE SEQUENCE adm_matriks_kegiatan_id_seq;
+
+CREATE SEQUENCE adm_catalogue_id_seq;
+
+CREATE SEQUENCE adm_cm_dept_id_seq;
+
+CREATE SEQUENCE adm_employee_cat_id_seq;
+
+CREATE SEQUENCE adm_matriks_kewenangan_kegiatan_id_seq;
+
+CREATE SEQUENCE adm_nilai_resiko_paket_seq;
+
+CREATE SEQUENCE adm_nilai_vpi_id_seq;
+
+CREATE SEQUENCE adm_rks_id_sec;
+
+CREATE SEQUENCE adm_rks_id_seq;
+
+CREATE SEQUENCE adm_pr_type_id_seq;
+
+CREATE SEQUENCE adm_skala_resiko_paket_seq;
+
+CREATE SEQUENCE ctr_comment_all_div_id_seq;
+
+CREATE SEQUENCE ctr_gr_ses_id_seq;
+
+CREATE SEQUENCE ctr_terminasi_vendor_id_seq;
+
+CREATE SEQUENCE ctr_person_in_charge_id_seq;
+
+CREATE SEQUENCE ctr_jaminan_id_seq;
+
+CREATE SEQUENCE padi_transaksi_id_seq;
+
+CREATE SEQUENCE padi_umkm_id_seq;
+
+CREATE SEQUENCE prc_comments_id_seq;
+
+CREATE SEQUENCE prc_opportunity_id_seq;
+
+CREATE SEQUENCE prc_penilaian_risiko_id_seq;
+
+CREATE SEQUENCE prc_plan_change_period_id_seq;
+
+CREATE SEQUENCE prc_plan_hist_pph_id_seq;
+
+CREATE SEQUENCE prc_plan_history_id_seq;
+
+CREATE SEQUENCE prc_privy_status_sign_id_seq;
+
+CREATE SEQUENCE prc_proses_drup_id_seq;
+
+CREATE SEQUENCE prc_tender_rks_id_seq;
+
+CREATE SEQUENCE prc_proyek_scm_id_seq;
+
+CREATE SEQUENCE prc_vendor_id_seq;
+
+CREATE SEQUENCE prc_risiko_detail_id_seq;
+
+CREATE SEQUENCE prc_proyek_scm_id_seq;
+
+CREATE SEQUENCE prc_tender_privy_sign_id_seq;
+
+CREATE SEQUENCE prc_uskep_privy_status_id_seq;
+
+CREATE SEQUENCE prc_risiko_id_seq;
+
+CREATE SEQUENCE prc_tender_item_klarifikasi_id_seq;
+
+CREATE SEQUENCE prc_risiko_detail_id_seq;
+
+CREATE SEQUENCE prc_proses_drup_id_seq;
+
+CREATE SEQUENCE prc_uskep_privy_status_id_seq;
+
+CREATE SEQUENCE uskep_online_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_doc_id_seq;
+
+CREATE SEQUENCE vnd_product_id_seq;
+
+CREATE SEQUENCE vnd_nasabah_online_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_hasil_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_petunjuk_score_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_items_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_jawaban_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_pertanyaan_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_pertanyaan_kategori_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_petunjuk_score_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_trx_catatan_kecelakaan_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_trx_h_detail_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_trx_h_id_seq;
+
+CREATE SEQUENCE vnd_faq_faq_id_seq;
+
+CREATE SEQUENCE vnd_fasilitas_seq;
+
+CREATE SEQUENCE vnd_header_new_id_seq;
+
+CREATE SEQUENCE vnd_pengurus_id_seq;
+
+CREATE SEQUENCE personil_seq;
+
+CREATE SEQUENCE vnd_product_ekatalog_id_seq;
+
+CREATE SEQUENCE vnd_reg_comment_id_seq;
+
+CREATE SEQUENCE vnd_spt_tahunan_id_seq;
+
+CREATE SEQUENCE vnd_usaha_id_seq;
+
+CREATE SEQUENCE vnd_vpi_push_performance_id_seq;
+
+CREATE SEQUENCE vnd_account_id_seq
+
+CREATE SEQUENCE vnd_akta_id_seq
+
+CREATE SEQUENCE vnd_alamat_id_seq
+
+CREATE SEQUENCE vnd_anak_perusahaan_id_seq
+
+CREATE SEQUENCE vnd_usaha_id_seq
+
+CREATE SEQUENCE vnd_catatan_id_seq
+
+CREATE SEQUENCE vnd_company_id_seq
+
+CREATE SEQUENCE vnd_cqsms_id_seq
+
+CREATE SEQUENCE vnd_cqsms_doc_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_hasil_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_items_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_jawaban_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_pertanyaan_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_pertanyaan_kategori_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_petunjuk_score_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_trx_catatan_kecelakaan_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_trx_h_detail_id_seq;
+
+CREATE SEQUENCE vnd_cqsms_trx_h_id_seq;
+
+CREATE SEQUENCE vnd_dnb_id_seq;
+
+CREATE SEQUENCE vnd_education_id_seq;
+
+CREATE SEQUENCE vnd_exp_work_id_seq;
+
+CREATE SEQUENCE vnd_faq_faq_id_seq;
+
+CREATE SEQUENCE vnd_fasilitas_seq;
+
+CREATE SEQUENCE vnd_fin_rpt_id_seq;
+
+CREATE SEQUENCE vnd_izin_id_seq;
+
+CREATE SEQUENCE vnd_kontak_id_seq;
+
+CREATE SEQUENCE vnd_lap_keuangan_id_seq;
+
+CREATE SEQUENCE vnd_news_lkpp_id_seq;
+
+CREATE SEQUENCE vnd_news_news_id_seq;
+
+CREATE SEQUENCE vnd_pajak_id_seq;
+
+CREATE SEQUENCE vnd_pelaporan_id_seq;
+
+CREATE SEQUENCE vnd_pengalaman_id_seq;
+
+CREATE SEQUENCE vnd_pengurus_id_seq;
+
+CREATE SEQUENCE vnd_ticket_ticket_id_seq;
+
+CREATE SEQUENCE vnd_personil_seq;
+
+CREATE SEQUENCE vnd_product_ekatalog_id_seq;
+
+CREATE SEQUENCE vnd_saham_id_seq;
+
+CREATE SEQUENCE vnd_sertifikat_id_seq;
+
+CREATE SEQUENCE vnd_sk_id_seq;
+
+CREATE SEQUENCE vnd_spt_tahunan_id_seq;
+
+CREATE SEQUENCE vnd_ticket_chat_id_seq;
+
+CREATE SEQUENCE vnd_training_id_seq;
+
+CREATE SEQUENCE vnd_vpi_kompilasi_vk_id_seq;
+
+CREATE SEQUENCE vnd_reg_comment_id_seq;
+
+CREATE SEQUENCE vnd_vpi_push_performance_id_seq;
+
+
+
+
+
